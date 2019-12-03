@@ -4,6 +4,9 @@ Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
+# Ignore file with passwords
+src/mail.php
+
 # Dump file
 *.stackdump
 
