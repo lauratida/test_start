@@ -1,0 +1,40 @@
+{
+  "name": "start-html-project",
+  "version": "1.0.0",
+  "description": "Шаблон для старта проекта",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauratida/start-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauratida/start-html/issues"
+  },
+  "homepage": "https://github.com/lauratida/start-html#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-newer": "^1.4.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-responsive": "^3.0.1",
+    "gulp-rsync": "0.0.8",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify-es": "^2.0.0",
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1",
+    "swiper": "^5.2.1",
+    "uglify-js": "^3.7.1"
+  },
+  "dependencies": {
+    "sharp": "^0.23.3"
+  }
+}
