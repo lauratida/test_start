@@ -29,7 +29,7 @@
     "gulp-rsync": "0.0.8",
     "gulp-sass": "^4.0.2",
     "gulp-uglify-es": "^2.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "normalize.css": "^8.0.1",
     "swiper": "^5.2.1",
     "uglify-js": "^3.7.1"
