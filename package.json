@@ -35,6 +35,6 @@
     "uglify-js": "^3.7.1"
   },
   "dependencies": {
-    "sharp": "^0.23.3"
+    "sharp": "^0.30.5"
   }
 }
